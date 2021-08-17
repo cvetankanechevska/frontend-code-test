@@ -16,7 +16,6 @@ const RootContainer = (props: RootContainerProps) => {
         width: "100%",
         justifyContent: "center",
         alignItems: "center",
-        //: "50px"
       }}
     >
       {props.children}
